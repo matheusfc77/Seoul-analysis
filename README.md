@@ -1,2 +1,2 @@
-## Modelo de Predição das Bicicletas Alugadas em Seul
-Criação de um modelo de machine learning em Pyhton para a predição da quantidades de bicicletas que serão alugadas em determinadas condições climáticas de Seul - Coreia do Sul.
+## Forecast model - Bike rental in Seoul
+Development of a machine learning model in Python to predict bicycles that will be rented in certain weather conditions in Seoul - South Korea
